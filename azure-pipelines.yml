@@ -12,3 +12,4 @@ pool:
 steps:
 - task: InstallMATLAB@0
   inputs:
+    release: 'latest'
